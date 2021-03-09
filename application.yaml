@@ -1,3 +1,7 @@
+spring:
+  application:
+    profile: default
+    environment: default
 my:
   greeting: Hello World from config server
   list:
